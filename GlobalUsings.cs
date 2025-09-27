@@ -1,0 +1,5 @@
+﻿global using DictionarySerializationLibrary.Shared;
+global using ff1 = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileFunctions;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.BasicExtensions;
+global using CommonBasicLibraries.CollectionClasses;
+global using System.Text;
